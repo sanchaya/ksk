@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ksk.sanchaya.net/sitemap.xml
